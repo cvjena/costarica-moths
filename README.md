@@ -50,3 +50,6 @@ http://www.inf-cv.uni-jena.de/fgvcbiodiv
     in tr_ID.txt corresponds to the image in the same line in 
     imagelist.txt. A value of 1 means that this image is used for training,
     a value of 0 means that this image is used for testing.
+
+- ``costarica-categories.txt``
+    Names of the categories used in ``labels.txt``
